@@ -1,0 +1,4 @@
+polars==1.44.2
+charset-normalizer==3.4.6
+streamlit==1.63.0
+plotly==7.0.0

@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.streamlit/secrets.toml
+data/raw/
+data/external/
+data/processed/avscope_routes_monthly.parquet
+data/processed/avscope_mvp_validation.parquet
+*.zip
+*.log
